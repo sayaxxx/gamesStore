@@ -1,0 +1,9 @@
+/* ESTO ES PARA COLOCAR DE FONDO LA IMAGEN DE LA PAGINA Y AGREGARLE UN DEGRADADO NEGRO */
+.bg-videogames{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/fondo.png");
+    background-size: 2000px;
+}
+
+.card-body p {
+    margin-bottom: 5px;
+}
